@@ -11,8 +11,10 @@ Series Phenomena - Dwiti Krishna Bebarta1, T. Eswari Sudha1, and Ranjeeta Bisoyi
 
 
 CEFLANN : A Profitable Buy/Sell Trading Signal Generator Powered by Neural Networks
+
 • Developed CEFLANN (Computationally Efficient Functional Link Artificial Neural Network) using Moore's
 Penrose generalized inverse matrix with regularization to generate optimal weights for input features.
+
 • Uses highly nonlinear functions to introduce non linearity in input features.
 
 
